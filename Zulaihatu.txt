@@ -1,0 +1,24 @@
+<!DOCTYPE htm>
+<html>
+<head>
+<body>
+
+<title> Zulaihatu's website    </title>
+<h1> Zulaihatu Abubakar        </h1>
+
+<h2> I love to eat           </h2>
+<h4> I will excel at this course </h2>
+<p> What time is it </p>
+<a href="https://www.google.com">take me to google		</a><br>
+<a href="zulaihau.html">take me to my image			<a>
+
+
+
+
+
+
+
+
+<body>
+
+</html>
